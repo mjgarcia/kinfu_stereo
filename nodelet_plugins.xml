@@ -1,0 +1,7 @@
+<library path="lib/libkinfu_stereo">
+
+  <class name="kinfu_stereo/depth_map" type="kinfu_stereo::DepthMapNodelet" base_class_type="nodelet::Nodelet">
+    <description>Nodelet to compute depth map from disparity map</description>
+  </class>
+
+</library>
